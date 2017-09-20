@@ -63,12 +63,12 @@ def similarity_search(list_of_proteins, search_protein, segments=['TM1','TM2','T
     url_protein = 'http://test.gpcrdb.org/services/alignment/similarity/'+search_protein + ',' + ','.join(list_of_proteins) + '/' + segments
 
     similarity_data = requests.get(url_protein).json()
-    
+
     similarity_data = OrderedDict(sorted(similarity_data.items(), key=lambda x: (x[1]['similarity'], x[1]['identity']), reverse=True))
 
     return similarity_data
 
-def similarity_within_family(slug): 
+def similarity_within_family(slug):
 
     proteins = get_proteins_of_slug(slug).keys()
     list_of_compares = list(proteins)
@@ -87,82 +87,77 @@ def similarity_within_family(slug):
             list_sim.append(int(sim_data[name]['similarity']))
             list_ide.append(int(sim_data[name]['identity']))
             # df.loc[len(df)] = pd.Series({'Family': slug,'LigandType': slug,'Similarities': int(sim_data[name]['similarity']),'Identities': int(sim_data[name]['identity'])})
-            df.loc[len(df)] = pd.Series({'Family': list_of_families[slug].replace("receptors",""),'LigandType': familyID_translation[slug[:-4]],'Value': int(sim_data[name]['similarity']),'Category': 'Similarity'})
-            df.loc[len(df)] = pd.Series({'Family': list_of_families[slug].replace("receptors",""),'LigandType': familyID_translation[slug[:-4]],'Value': int(sim_data[name]['identity']),'Category': 'Identify'})
+            df.loc[len(df)] = pd.Series({'ProteinA':search_protein, 'ProteinB': name,'Family': list_of_families[slug].replace("receptors",""), 'LigandType': familyID_translation[slug[:-4]], 'Value': int(sim_data[name]['similarity']),'Category': 'Similarity'})
+            df.loc[len(df)] = pd.Series({'ProteinA':search_protein, 'ProteinB': name,'Family': list_of_families[slug].replace("receptors",""), 'LigandType': familyID_translation[slug[:-4]], 'Value': int(sim_data[name]['identity']),'Category': 'Identity'})
 
     # print df
 
-familyID_translation = {"001_001": "aminergic",
-                        "001_002": "peptide",
-                        "001_003": "protein",
-                        "001_004": "lipid",
-                        "001_005": "melatonin",
-                        "001_006": "nucleotide",
-                        "001_007": "steroid",
-                        "001_008": "alicarboxylic",
-                        "001_009": "sensory",
-                        "001_010": "orphan",
-                        "002_001": "peptide",
-                        "003_001": "orphan",
-                        "004_001": "ion",
-                        "004_002": "amino acid",
-                        "004_003": "sensory",
-                        "004_004": "orphan"}
+def main ():
+    familyID_translation = {"001_001": "aminergic",
+                            "001_002": "peptide",
+                            "001_003": "protein",
+                            "001_004": "lipid",
+                            "001_005": "melatonin",
+                            "001_006": "nucleotide",
+                            "001_007": "steroid",
+                            "001_008": "alicarboxylic",
+                            "001_009": "sensory",
+                            "001_010": "orphan",
+                            "002_001": "peptide",
+                            "003_001": "orphan",
+                            "004_001": "ion",
+                            "004_002": "amino acid",
+                            "004_003": "sensory",
+                            "004_004": "orphan"}
+    # ==================
+    # ====== DATA ======
+    # ==================
 
-# ==================
-# ====== DATA ======
-# ==================
+    df = pd.DataFrame(columns=['ProteinA','ProteinB','Family','LigandType','Value','Category'])
 
-# df = pd.DataFrame(columns=['Family','LigandType','Value','Category'])
+    list_of_families = get_families_of_slug("001")
+    slugs = list_of_families.keys()
+    # similarity_within_family('001_001_002')
 
-# list_of_families = get_families_of_slug("001")
-# slugs = list_of_families.keys()
+    for slug in slugs:
+        print "Load " + list_of_families[slug]
+        similarity_within_family(slug)
 
-# for slug in slugs:
-#     print "Load " + list_of_families[slug]
-#     similarity_within_family(slug)
+    df.to_csv("../similarities_of_families/sims_classC.csv")
 
-# df.to_csv("/Users/vzw960/Work/GPCRdb/similarities_of_families/sims_classC.csv")
+    # =================
+    # ====== VIS ======
+    # =================
+    df = pd.read_csv("../similarities_of_families/sims_classA.csv")
 
-# =================
-# ====== VIS ======
-# =================
-df = pd.read_csv("/Users/vzw960/Work/GPCRdb/similarities_of_families/sims_classA.csv")
-
-sns.set(style="whitegrid", color_codes=True)
-f, ax = plt.subplots(figsize=(15, 10))
-ax.set(ylim=(0, 100))
-
-
-# Simlarity or Identity ? 
-df = df[df['Category']=='Similarity']
-# Specific family or ligandtype?
-df = df[df['LigandType']=='lipid']
-# df = df[df['Family']=='Vasopressin and oxytocin ']
-
-sort_value = "Family"
-
-sns.violinplot(x = sort_value, y = "Value", data=df, bw=0.5, cut=0, palette="muted", linewidth=1, split=True)
-# sns.violinplot(x="Family", y="Value", hue='Category', data=df, bw=.4, cut=0, linewidth=1, split=True)
-# sns.boxplot(x="Family", y="Value", hue='Category', data=df, )
-sns.swarmplot(x=sort_value, y="Value", hue="Category", data=df, color = 'white', edgecolor="white", size=4)
-sns.despine(left=True
-	)
-# plt.plot((len(df.Family.unique())+1) * [0], (len(df.Family.unique())+1) * [df.Value.min()], 'k--', linewidth=1)
-plt.axhline(y=df.Value.min(), xmin=0, xmax=1, linewidth=1, color = 'k', linestyle = '--')
-plt.axhline(y=df.Value.max(), xmin=0, xmax=1, linewidth=1, color = 'k', linestyle = '--')
-
-plt.title("Receptorsimilarities of GPCR Families", fontsize=16)
-plt.xticks(rotation=45)
-plt.gcf().subplots_adjust(bottom=0.20)
-# plt.gca().tight_layout()
-plt.show()
+    sns.set(style="whitegrid", color_codes=True)
+    f, ax = plt.subplots(figsize=(15, 10))
+    ax.set(ylim=(0, 100))
 
 
+    # Simlarity or Identity ?
+    df = df[df['Category']=='Similarity']
+    # Specific family or ligandtype?
+    df = df[df['LigandType']=='lipid']
+    # df = df[df['Family']=='Vasopressin and oxytocin ']
 
+    sort_value = "Family"
 
+    sns.violinplot(x = sort_value, y = "Value", data=df, bw=0.5, cut=0, palette="muted", linewidth=1, split=True)
+    # sns.violinplot(x="Family", y="Value", hue='Category', data=df, bw=.4, cut=0, linewidth=1, split=True)
+    # sns.boxplot(x="Family", y="Value", hue='Category', data=df, )
+    sns.swarmplot(x=sort_value, y="Value", hue="Category", data=df, color = 'white', edgecolor="white", size=4)
+    sns.despine(left=True
+    	)
+    # plt.plot((len(df.Family.unique())+1) * [0], (len(df.Family.unique())+1) * [df.Value.min()], 'k--', linewidth=1)
+    plt.axhline(y=df.Value.min(), xmin=0, xmax=1, linewidth=1, color = 'k', linestyle = '--')
+    plt.axhline(y=df.Value.max(), xmin=0, xmax=1, linewidth=1, color = 'k', linestyle = '--')
 
+    plt.title("Receptorsimilarities of GPCR Families", fontsize=16)
+    plt.xticks(rotation=45)
+    plt.gcf().subplots_adjust(bottom=0.20)
+    # plt.gca().tight_layout()
+    plt.show()
 
-
-
-
+if __name__ == "__main__":
+    main()
