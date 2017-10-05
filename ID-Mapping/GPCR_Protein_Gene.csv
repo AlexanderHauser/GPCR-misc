@@ -1,393 +1,399 @@
-,Uniprot,EntryName,Gene,GeneAlternative
-0,P08908,5ht1a_human,HTR1A,
-1,P28222,5ht1b_human,HTR1B,
-2,P28221,5ht1d_human,HTR1D,
-3,P28566,5ht1e_human,HTR1E,
-4,P30939,5ht1f_human,HTR1F,
-5,P28223,5ht2a_human,HTR2A,
-6,P41595,5ht2b_human,HTR2B,
-7,P28335,5ht2c_human,HTR2C,
-8,Q13639,5ht4r_human,HTR4,
-9,P47898,5ht5a_human,HTR5A,
-10,P50406,5ht6r_human,HTR6,
-11,P34969,5ht7r_human,HTR7,
-12,P11229,acm1_human,CHRM1,
-13,P08172,acm2_human,CHRM2,
-14,P14416,drd2_human,DRD2,
-15,P20309,acm3_human,CHRM3,
-16,P08173,acm4_human,CHRM4,
-17,P08912,acm5_human,CHRM5,
-18,P35348,ada1a_human,ADRA1A,
-19,P35368,ada1b_human,ADRA1B,
-20,P25100,ada1d_human,ADRA1D,
-21,P08913,ada2a_human,ADRA2A,
-22,P18089,ada2b_human,ADRA2B,
-23,P18825,ada2c_human,ADRA2C,
-24,P08588,adrb1_human,ADRB1,
-25,P07550,adrb2_human,ADRB2,
-26,P13945,adrb3_human,ADRB3,
-27,P21728,drd1_human,DRD1,
-28,P35462,drd3_human,DRD3,
-29,P21917,drd4_human,DRD4,
-30,P21918,drd5_human,DRD5,
-31,P35367,hrh1_human,HRH1,
-32,P25021,hrh2_human,HRH2,
-33,Q9Y5N1,hrh3_human,HRH3,
-34,Q9H3N8,hrh4_human,HRH4,
-35,Q96RJ0,taar1_human,TAAR1,
-36,P30556,agtr1_human,AGTR1,
-37,P50052,agtr2_human,AGTR2,
-38,P35414,apj_human,APLNR,
-39,P28336,nmbr_human,NMBR,
-40,P30550,grpr_human,GRPR,
-41,P32247,brs3_human,BRS3,
-42,P46663,bkrb1_human,BDKRB1,
-43,P30411,bkrb2_human,BDKRB2,
-44,P32238,cckar_human,CCKAR,
-45,P32239,gasr_human,CCKBR,
-46,Q16581,c3ar_human,C3AR1,
-47,P21730,c5ar1_human,C5AR1,
-48,Q9P296,c5ar2_human,C5AR2,
-49,P25101,ednra_human,EDNRA,
-50,P24530,ednrb_human,EDNRB,
-51,P21462,fpr1_human,FPR1,
-52,P25090,fpr2_human,FPR2,
-53,P25089,fpr3_human,FPR3,
-54,P47211,galr1_human,GALR1,
-55,O43603,galr2_human,GALR2,
-56,O60755,galr3_human,GALR3,
-57,Q92847,ghsr_human,GHSR,
-58,P30968,gnrhr_human,GNRHR,
-59,Q969F8,kissr_human,KISS1R,
-60,Q99705,mchr1_human,MCHR1,
-61,Q969V1,mchr2_human,MCHR2,
-62,Q01726,mshr_human,MC1R,
-63,Q01718,acthr_human,MC2R,
-64,P41968,mc3r_human,MC3R,
-65,P32245,mc4r_human,MC4R,
-66,P33032,mc5r_human,MC5R,
-67,O43193,mtlr_human,MLNR,
-68,Q9HB89,nmur1_human,NMUR1,
-69,Q9GZQ4,nmur2_human,NMUR2,
-70,Q9GZQ6,npff1_human,NPFFR1,
-71,Q9Y5X5,npff2_human,NPFFR2,
-72,Q6W5P4,npsr1_human,NPSR1,
-73,P48145,npbw1_human,NPBWR1,
-74,P48146,npbw2_human,NPBWR2,
-75,P25929,npy1r_human,NPY1R,
-76,P25024,cxcr1_human,CXCR1,
-77,P49146,npy2r_human,NPY2R,
-78,P50391,npy4r_human,NPY4R,
-79,Q15761,npy5r_human,NPY5R,
-80,Q99463,npy6r_human,NPY6R,
-81,P30989,ntr1_human,NTSR1,
-82,O95665,ntr2_human,NTSR2,
-83,P41143,oprd_human,OPRD1,
-84,P41145,oprk_human,OPRK1,
-85,P35372,oprm_human,OPRM1,
-86,P41146,oprx_human,OPRL1,
-87,O43613,ox1r_human,HCRTR1,
-88,O43614,ox2r_human,HCRTR2,
-89,Q96P65,qrfpr_human,QRFPR,
-90,P49683,prlhr_human,PRLHR,
-91,P25116,par1_human,F2R,
-92,P55085,par2_human,F2RL1,
-93,O00254,par3_human,F2RL2,
-94,Q96RI0,par4_human,F2RL3,
-95,Q9HBX9,rxfp1_human,RXFP1,
-96,Q8WXD0,rxfp2_human,RXFP2,
-97,Q9NSD7,rl3r1_human,RXFP3,
-98,Q8TDU9,rl3r2_human,RXFP4,
-99,P30872,ssr1_human,SSTR1,
-100,P30874,ssr2_human,SSTR2,
-101,P32745,ssr3_human,SSTR3,
-102,P31391,ssr4_human,SSTR4,
-103,P35346,ssr5_human,SSTR5,
-104,P25103,nk1r_human,TACR1,
-105,P21452,nk2r_human,TACR2,
-106,P29371,nk3r_human,TACR3,
-107,P25025,cxcr2_human,CXCR2,
-108,P34981,trfr_human,TRHR,
-109,Q9UKP6,ur2r_human,UTS2R,
-110,P37288,v1ar_human,AVPR1A,
-111,P47901,v1br_human,AVPR1B,
-112,P30518,v2r_human,AVPR2,
-113,P30559,oxyr_human,OXTR,
-114,Q99788,cml1_human,CMKLR1,
-115,P32246,ccr1_human,CCR1,
-116,P41597,ccr2_human,CCR2,
-117,P51677,ccr3_human,CCR3,
-118,P51679,ccr4_human,CCR4,
-119,P51681,ccr5_human,CCR5,
-120,P51684,ccr6_human,CCR6,
-121,P32248,ccr7_human,CCR7,
-122,P51685,ccr8_human,CCR8,
-123,P51686,ccr9_human,CCR9,
-124,P46092,ccr10_human,CCR10,
-125,P49682,cxcr3_human,CXCR3,
-126,P61073,cxcr4_human,CXCR4,
-127,P32302,cxcr5_human,CXCR5,
-128,O00574,cxcr6_human,CXCR6,
-129,P49238,cx3c1_human,CX3CR1,
-130,P46094,xcr1_human,XCR1,
-131,Q16570,ackr1_human,ACKR1,
-132,O00590,ackr2_human,ACKR2,
-133,P25106,ackr3_human,ACKR3,
-134,Q9NPB9,ackr4_human,ACKR4,
-135,O00421,ccrl2_human,CCRL2,
-136,P23945,fshr_human,FSHR,
-137,P22888,lshr_human,LHCGR,
-138,P16473,tshr_human,TSHR,
-139,Q8TCW9,pkr1_human,PROKR1,
-140,Q8NFJ6,pkr2_human,PROKR2,
-141,O14842,ffar1_human,FFAR1,
-142,O15552,ffar2_human,FFAR2,
-143,O14843,ffar3_human,FFAR3,
-144,Q5NUL3,ffar4_human,FFAR4,
-145,O15529,gpr42_human,GPR42,
-146,Q15722,lt4r1_human,LTB4R,
-147,Q9NPC1,lt4r2_human,LTB4R2,
-148,Q9Y271,cltr1_human,CYSLTR1,
-149,Q9NS75,cltr2_human,CYSLTR2,
-150,Q8TDS5,oxer1_human,OXER1,
-151,Q92633,lpar1_human,LPAR1,
-152,Q9HBW0,lpar2_human,LPAR2,
-153,Q9UBY5,lpar3_human,LPAR3,
-154,Q99677,lpar4_human,LPAR4,
-155,Q9H1C0,lpar5_human,LPAR5,
-156,P43657,lpar6_human,LPAR6,
-157,P21453,s1pr1_human,S1PR1,
-158,O95136,s1pr2_human,S1PR2,
-159,Q99500,s1pr3_human,S1PR3,
-160,O95977,s1pr4_human,S1PR4,
-161,Q9H228,s1pr5_human,S1PR5,
-162,P21554,cnr1_human,CNR1,
-163,P34972,cnr2_human,CNR2,
-164,Q14330,gpr18_human,GPR18,
-165,Q9Y2T6,gpr55_human,GPR55,
-166,Q8TDV5,gp119_human,GPR119,
-167,P25105,ptafr_human,PTAFR,
-168,Q13258,pd2r_human,PTGDR,
-169,Q9Y5Y4,pd2r2_human,PTGDR2,
-170,P34995,pe2r1_human,PTGER1,
-171,P43116,pe2r2_human,PTGER2,
-172,P43115,pe2r3_human,PTGER3,
-173,Q15391,p2y14_human,P2RY14,
-174,P35408,pe2r4_human,PTGER4,
-175,P43088,pf2r_human,PTGFR,
-176,P43119,pi2r_human,PTGIR,
-177,P21731,ta2r_human,TBXA2R,
-178,P48039,mtr1a_human,MTNR1A,
-179,P49286,mtr1b_human,MTNR1B,
-180,P30542,aa1r_human,ADORA1,
-181,P29274,aa2ar_human,ADORA2A,
-182,P29275,aa2br_human,ADORA2B,
-183,P0DMS8,aa3r_human,ADORA3,
-184,P47900,p2ry1_human,P2RY1,
-185,P41231,p2ry2_human,P2RY2,
-186,P51582,p2ry4_human,P2RY4,
-187,Q15077,p2ry6_human,P2RY6,
-188,Q96G91,p2y11_human,P2RY11,
-189,Q9H244,p2y12_human,P2RY12,
-190,Q9BPV8,p2y13_human,P2RY13,
-191,Q8TDU6,gpbar_human,GPBAR1,
-192,Q99527,gper1_human,GPER1,
-193,Q9BXC0,hcar1_human,HCAR1,
-194,Q8TDS4,hcar2_human,HCAR2,
-195,P49019,hcar3_human,HCAR3,
-196,Q96P68,oxgr1_human,OXGR1,
-197,Q9BXA5,sucr1_human,SUCNR1,
-198,P08100,opsd_human,RHO,
-199,Q9UHM6,opn4_human,OPN4,
-200,Q9H1Y3,opn3_human,OPN3,
-201,Q6U736,opn5_human,OPN5,
-202,P03999,opsb_human,OPN1SW,
-203,P04001,opsg_human,OPN1MW,
-204,P04000,opsr_human,OPN1LW,
-205,P46091,gpr1_human,GPR1,
-206,P46089,gpr3_human,GPR3,
-207,P46093,gpr4_human,GPR4,
-208,P46095,gpr6_human,GPR6,
-209,P47775,gpr12_human,GPR12,
-210,P49685,gpr15_human,GPR15,
-211,Q13304,gpr17_human,GPR17,
-212,Q15760,gpr19_human,GPR19,
-213,Q99678,gpr20_human,GPR20,
-214,Q99679,gpr21_human,GPR21,
-215,Q99680,gpr22_human,GPR22,
-216,O00155,gpr25_human,GPR25,
-217,Q8NDV2,gpr26_human,GPR26,
-218,Q9NS67,gpr27_human,GPR27,
-219,O00270,gpr31_human,GPR31,
-220,O75388,gpr32_human,GPR32,
-221,Q49SQ1,gpr33_human,GPR33,
-222,Q9UPC5,gpr34_human,GPR34,
-223,Q9HC97,gpr35_human,GPR35,
-224,O15354,gpr37_human,GPR37,
-225,O60883,etbr2_human,GPR37L1,
-226,O43194,gpr39_human,GPR39,
-227,Q9Y5Y3,gpr45_human,GPR45,
-228,Q13585,mtr1l_human,GPR50,
-229,Q9Y2T5,gpr52_human,GPR52,
-230,Q9BZJ8,gpr61_human,GPR61,
-231,Q9BZJ7,gpr62_human,GPR62,
-232,Q9BZJ6,gpr63_human,GPR63,
-233,Q8IYL9,psyr_human,GPR65,
-234,Q15743,ogr1_human,GPR68,
-235,O95800,gpr75_human,GPR75,
-236,Q96P69,gpr78_human,GPR78,
-237,Q96P67,gpr82_human,GPR82,
-238,Q9NYM4,gpr83_human,GPR83,
-239,Q9NQS5,gpr84_human,GPR84,
-240,P60893,gpr85_human,GPR85,
-241,Q9BY21,gpr87_human,GPR87,
-242,Q9GZN0,gpr88_human,GPR88,
-243,Q96P66,gp101_human,GPR101,
-244,Q9UNW8,gp132_human,GPR132,
-245,Q8IZ08,gp135_human,GPR135,
-246,Q6DWJ6,gp139_human,GPR139,
-247,Q7Z602,gp141_human,GPR141,
-248,Q7Z601,gp142_human,GPR142,
-249,Q96CH1,gp146_human,GPR146,
-250,Q8TDV2,gp148_human,GPR148,
-251,Q86SP6,gp149_human,GPR149,
-252,Q8NGU9,gp150_human,GPR150,
-253,Q8TDV0,gp151_human,GPR151,
-254,Q8TDT2,gp152_human,GPR152,
-255,Q6NV75,gp153_human,GPR153,
-256,Q9UJ42,gp160_human,GPR160,
-257,Q8N6U8,gp161_human,GPR161,
-258,Q16538,gp162_human,GPR162,
-259,O14626,gp171_human,GPR171,
-260,Q9NS66,gp173_human,GPR173,
-261,Q9BXC1,gp174_human,GPR174,
-262,Q14439,gp176_human,GPR176,
-263,O15218,gp182_human,GPR182,
-264,P32249,gp183_human,GPR183,
-265,Q9BXB1,lgr4_human,LGR4,
-266,O75473,lgr5_human,LGR5,
-267,Q969N4,taar8_human,TAAR8,
-268,Q9HBX8,lgr6_human,LGR6,
-269,P04201,mas_human,MAS1,
-270,P35410,mas1l_human,MAS1L,
-271,Q8TDS7,mrgrd_human,MRGPRD,
-272,Q86SM8,mrgre_human,MRGPRE,
-273,Q96AM1,mrgrf_human,MRGPRF,
-274,Q86SM5,mrgrg_human,MRGPRG,
-275,Q96LB2,mrgx1_human,MRGPRX1,
-276,Q96LB1,mrgx2_human,MRGPRX2,
-277,Q96LB0,mrgx3_human,MRGPRX3,
-278,Q96LA9,mrgx4_human,MRGPRX4,
-279,Q86VZ1,p2ry8_human,P2RY8,
-280,O00398,p2y10_human,P2RY10,
-281,Q9P1P5,taar2_human,TAAR2,
-282,Q9P1P4,taar3_human,TAAR3P,
-283,O14804,taar5_human,TAAR5,
-284,Q96RI8,taar6_human,TAAR6,
-285,Q96RI9,taar9_human,TAAR9,
-286,P30988-2,calcr_human,CALCR,
-287,Q16602,calrl_human,CALCRL,
-288,P34998-2,crfr1_human,CRHR1,
-289,Q13324,crfr2_human,CRHR2,
-290,Q02643,ghrhr_human,GHRHR,
-291,P48546,gipr_human,GIPR,
-292,P43220,glp1r_human,GLP1R,
-293,O95838,glp2r_human,GLP2R,
-294,P47871,glr_human,GCGR,
-295,P47872,sctr_human,SCTR,
-296,Q03431,pth1r_human,PTH1R,
-297,P49190,pth2r_human,PTH2R,
-298,P41586,pacr_human,ADCYAP1R1,
-299,P32241,vipr1_human,VIPR1,
-300,P41587,vipr2_human,VIPR2,
-301,O94910,agrl1_human,ADGRL1,
-302,O95490,agrl2_human,ADGRL2,
-303,Q9HAR2,agrl3_human,ADGRL3,
-304,Q9HBW9,agrl4_human,ADGRL4,
-305,Q14246,agre1_human,ADGRE1,
-306,Q9UHX3,agre2_human,ADGRE2,
-307,Q9BY15,agre3_human,ADGRE3,
-308,Q86SQ3,agre4_human,ADGRE4P,
-309,P48960,cd97_human,ADGRE5,CD97
-310,Q86SQ6,agra1_human,ADGRA1,
-311,Q96PE1,agra2_human,ADGRA2,
-312,Q8IWK6,agra3_human,ADGRA3,
-313,Q9NYQ6,celr1_human,CELSR1,
-314,Q9HCU4,celr2_human,CELSR2,
-315,Q9NYQ7,celr3_human,CELSR3,
-316,Q6QNK2,agrd1_human,ADGRD1,
-317,Q7Z7M1,agrd2_human,ADGRD2,
-318,Q5T601,agrf1_human,ADGRF1,
-319,Q8IZF7,agrf2_human,ADGRF2,
-320,Q8IZF5,agrf3_human,ADGRF3,
-321,Q8IZF3,agrf4_human,ADGRF4,
-322,Q8IZF2,agrf5_human,ADGRF5,
-323,O14514,bai1_human,ADGRB1,BAI1
-324,O60241,agrb2_human,ADGRB2,
-325,O60242,agrb3_human,ADGRB3,
-326,Q9Y653,agrg1_human,ADGRG1,
-327,Q8IZP9,agrg2_human,ADGRG2,
-328,Q86Y34,agrg3_human,ADGRG3,
-329,Q8IZF6,agrg4_human,ADGRG4,
-330,Q8IZF4,agrg5_human,ADGRG5,
-331,Q86SQ4,agrg6_human,ADGRG6,
-332,Q96K78,agrg7_human,ADGRG7,
-333,Q8WXG9,gpr98_human,ADGRV1,GPR98
-334,P41180,casr_human,CASR,
-335,Q9UBS5,gabr1_human,GABBR1,
-336,O75899,gabr2_human,GABBR2,
-337,Q13255,grm1_human,GRM1,
-338,Q14416,grm2_human,GRM2,
-339,Q14832,grm3_human,GRM3,
-340,Q14833,grm4_human,GRM4,
-341,P41594,grm5_human,GRM5,
-342,O15303,grm6_human,GRM6,
-343,Q14831,grm7_human,GRM7,
-344,O00222,grm8_human,GRM8,
-345,Q7RTX1,ts1r1_human,TAS1R1,
-346,Q8TE23,ts1r2_human,TAS1R2,
-347,Q7RTX0,ts1r3_human,TAS1R3,
-348,Q8NFN8,gp156_human,GPR156,
-349,Q5T848,gp158_human,GPR158,
-350,Q6PRD1,gp179_human,GPR179,
-351,Q8NFJ5,rai3_human,GPRC5A,
-352,Q9NZH0,gpc5b_human,GPRC5B,
-353,Q9NQ84,gpc5c_human,GPRC5C,
-354,Q9NZD1,gpc5d_human,GPRC5D,
-355,Q5T6X5,gpc6a_human,GPRC6A,
-356,Q9NPG1,fzd3_human,FZD3,
-357,Q9UP38,fzd1_human,FZD1,
-358,Q14332,fzd2_human,FZD2,
-359,Q9ULV1,fzd4_human,FZD4,
-360,Q13467,fzd5_human,FZD5,
-361,O60353,fzd6_human,FZD6,
-362,O75084,fzd7_human,FZD7,
-363,Q9H461,fzd8_human,FZD8,
-364,O00144,fzd9_human,FZD9,
-365,Q9ULW2,fzd10_human,FZD10,
-366,Q99835,smo_human,SMO,
-367,Q9NYW1,ta2r9_human,TAS2R9,
-368,Q9NYW0,t2r10_human,TAS2R10,
-369,Q9NYW2,ta2r8_human,TAS2R8,
-370,Q9NYW7,ta2r1_human,TAS2R1,
-371,Q9NYW6,ta2r3_human,TAS2R3,
-372,Q9NYW5,ta2r4_human,TAS2R4,
-373,Q9NYW4,ta2r5_human,TAS2R5,
-374,Q9NYW3,ta2r7_human,TAS2R7,
-375,Q9NYV9,t2r13_human,TAS2R13,
-376,Q9NYV8,t2r14_human,TAS2R14,
-377,Q9NYV7,t2r16_human,TAS2R16,
-378,P59542,t2r19_human,TAS2R19,
-379,P59543,t2r20_human,TAS2R20,
-380,P59541,t2r30_human,TAS2R30,
-381,P59538,t2r31_human,TAS2R31,
-382,P59533,t2r38_human,TAS2R38,
-383,P59534,t2r39_human,TAS2R39,
-384,P59535,t2r40_human,TAS2R40,
-385,P59536,t2r41_human,TAS2R41,
-386,Q7RTR8,t2r42_human,TAS2R42,
-387,P59537,t2r43_human,TAS2R43,
-388,P59539,t2r45_human,TAS2R45,
-389,P59540,t2r46_human,TAS2R46,
-390,P59544,t2r50_human,TAS2R50,
-391,P59551,t2r60_human,TAS2R60,
+,EntryName,Uniprot,Gene,GeneAlternative,Class,Ligandtype,Family
+0,5ht1a_human,P08908,HTR1A,ADRB2RL1;ADRBRL1,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors
+1,5ht1b_human,P28222,HTR1B,HTR1DB,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors
+2,5ht1d_human,P28221,HTR1D,HTR1DA;HTRL,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors
+3,5ht1e_human,P28566,HTR1E,,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors
+4,5ht1f_human,P30939,HTR1F,HTR1EL,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors
+5,5ht2a_human,P28223,HTR2A,HTR2,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors
+6,5ht2b_human,P41595,HTR2B,,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors
+7,5ht2c_human,P28335,HTR2C,HTR1C,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors
+8,5ht4r_human,Q13639,HTR4,,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors
+9,5ht5a_human,P47898,HTR5A,,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors
+10,5ht6r_human,P50406,HTR6,,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors
+11,5ht7r_human,P34969,HTR7,,Class A (Rhodopsin),Aminergic receptors,5-Hydroxytryptamine receptors
+12,acm1_human,P11229,CHRM1,,Class A (Rhodopsin),Aminergic receptors,Acetylcholine receptors (muscarinic)
+13,acm2_human,P08172,CHRM2,,Class A (Rhodopsin),Aminergic receptors,Acetylcholine receptors (muscarinic)
+14,drd2_human,P14416,DRD2,,Class A (Rhodopsin),Aminergic receptors,Dopamine receptors
+15,acm3_human,P20309,CHRM3,,Class A (Rhodopsin),Aminergic receptors,Acetylcholine receptors (muscarinic)
+16,acm4_human,P08173,CHRM4,,Class A (Rhodopsin),Aminergic receptors,Acetylcholine receptors (muscarinic)
+17,acm5_human,P08912,CHRM5,,Class A (Rhodopsin),Aminergic receptors,Acetylcholine receptors (muscarinic)
+18,ada1a_human,P35348,ADRA1A,ADRA1C,Class A (Rhodopsin),Aminergic receptors,Adrenoceptors
+19,ada1b_human,P35368,ADRA1B,,Class A (Rhodopsin),Aminergic receptors,Adrenoceptors
+20,ada1d_human,P25100,ADRA1D,ADRA1A,Class A (Rhodopsin),Aminergic receptors,Adrenoceptors
+21,ada2a_human,P08913,ADRA2A,ADRA2R;ADRAR,Class A (Rhodopsin),Aminergic receptors,Adrenoceptors
+22,ada2b_human,P18089,ADRA2B,ADRA2L1;ADRA2RL1,Class A (Rhodopsin),Aminergic receptors,Adrenoceptors
+23,ada2c_human,P18825,ADRA2C,ADRA2L2;ADRA2RL2,Class A (Rhodopsin),Aminergic receptors,Adrenoceptors
+24,adrb1_human,P08588,ADRB1,ADRB1R;B1AR,Class A (Rhodopsin),Aminergic receptors,Adrenoceptors
+25,adrb2_human,P07550,ADRB2,ADRB2R;B2AR,Class A (Rhodopsin),Aminergic receptors,Adrenoceptors
+26,adrb3_human,P13945,ADRB3,ADRB3R;B3AR,Class A (Rhodopsin),Aminergic receptors,Adrenoceptors
+27,drd1_human,P21728,DRD1,,Class A (Rhodopsin),Aminergic receptors,Dopamine receptors
+28,drd3_human,P35462,DRD3,,Class A (Rhodopsin),Aminergic receptors,Dopamine receptors
+29,drd4_human,P21917,DRD4,,Class A (Rhodopsin),Aminergic receptors,Dopamine receptors
+30,drd5_human,P21918,DRD5,DRD1B;DRD1L2,Class A (Rhodopsin),Aminergic receptors,Dopamine receptors
+31,hrh1_human,P35367,HRH1,,Class A (Rhodopsin),Aminergic receptors,Histamine receptors
+32,hrh2_human,P25021,HRH2,,Class A (Rhodopsin),Aminergic receptors,Histamine receptors
+33,hrh3_human,Q9Y5N1,HRH3,GPCR97,Class A (Rhodopsin),Aminergic receptors,Histamine receptors
+34,hrh4_human,Q9H3N8,HRH4,GPCR105,Class A (Rhodopsin),Aminergic receptors,Histamine receptors
+35,taar1_human,Q96RJ0,TAAR1,TA1;TAR1;TRAR1,Class A (Rhodopsin),Aminergic receptors,Trace amine receptors
+36,agtr1_human,P30556,AGTR1,AGTR1A;AGTR1B;AT2R1;AT2R1B,Class A (Rhodopsin),Peptide receptors,Angiotensin receptors
+37,agtr2_human,P50052,AGTR2,,Class A (Rhodopsin),Peptide receptors,Angiotensin receptors
+38,apj_human,P35414,APLNR,AGTRL1;APJ,Class A (Rhodopsin),Peptide receptors,Apelin receptors
+39,nmbr_human,P28336,NMBR,,Class A (Rhodopsin),Peptide receptors,Bombesin receptors
+40,grpr_human,P30550,GRPR,,Class A (Rhodopsin),Peptide receptors,Bombesin receptors
+41,brs3_human,P32247,BRS3,,Class A (Rhodopsin),Peptide receptors,Bombesin receptors
+42,bkrb1_human,P46663,BDKRB1,BRADYB1,Class A (Rhodopsin),Peptide receptors,Bradykinin receptors
+43,bkrb2_human,P30411,BDKRB2,BKR2,Class A (Rhodopsin),Peptide receptors,Bradykinin receptors
+44,cckar_human,P32238,CCKAR,CCKRA,Class A (Rhodopsin),Peptide receptors,Cholecystokinin receptors
+45,gasr_human,P32239,CCKBR,CCKRB,Class A (Rhodopsin),Peptide receptors,Cholecystokinin receptors
+46,c3ar_human,Q16581,C3AR1,AZ3B;C3R1;HNFAG09,Class A (Rhodopsin),Peptide receptors,Complement peptide receptors
+47,c5ar1_human,P21730,C5AR1,C5AR;C5R1,Class A (Rhodopsin),Peptide receptors,Complement peptide receptors
+48,c5ar2_human,Q9P296,C5AR2,C5L2;GPR77,Class A (Rhodopsin),Peptide receptors,Complement peptide receptors
+49,ednra_human,P25101,EDNRA,ETA;ETRA,Class A (Rhodopsin),Peptide receptors,Endothelin receptors
+50,ednrb_human,P24530,EDNRB,ETRB,Class A (Rhodopsin),Peptide receptors,Endothelin receptors
+51,fpr1_human,P21462,FPR1,,Class A (Rhodopsin),Peptide receptors,Formylpeptide receptors
+52,fpr2_human,P25090,FPR2,FPRH1;FPRL1;LXA4R,Class A (Rhodopsin),Peptide receptors,Formylpeptide receptors
+53,fpr3_human,P25089,FPR3,FPRH1;FPRL2,Class A (Rhodopsin),Peptide receptors,Formylpeptide receptors
+54,galr1_human,P47211,GALR1,GALNR;GALNR1,Class A (Rhodopsin),Peptide receptors,Galanin receptors
+55,galr2_human,O43603,GALR2,GALNR2,Class A (Rhodopsin),Peptide receptors,Galanin receptors
+56,galr3_human,O60755,GALR3,GALNR3,Class A (Rhodopsin),Peptide receptors,Galanin receptors
+57,ghsr_human,Q92847,GHSR,,Class A (Rhodopsin),Peptide receptors,Ghrelin receptors
+58,gnrhr_human,P30968,GNRHR,GRHR,Class A (Rhodopsin),Peptide receptors,Gonadotrophin-releasing hormone receptors
+59,kissr_human,Q969F8,KISS1R,AXOR12;GPR54,Class A (Rhodopsin),Peptide receptors,Kisspeptin receptors
+60,mchr1_human,Q99705,MCHR1,GPR24;SLC1,Class A (Rhodopsin),Peptide receptors,Melanin-concentrating hormone
+61,mchr2_human,Q969V1,MCHR2,GPR145;SLT,Class A (Rhodopsin),Peptide receptors,Melanin-concentrating hormone
+62,mshr_human,Q01726,MC1R,MSHR,Class A (Rhodopsin),Peptide receptors,Melanocortin receptors
+63,acthr_human,Q01718,MC2R,ACTHR,Class A (Rhodopsin),Peptide receptors,Melanocortin receptors
+64,mc3r_human,P41968,MC3R,,Class A (Rhodopsin),Peptide receptors,Melanocortin receptors
+65,mc4r_human,P32245,MC4R,,Class A (Rhodopsin),Peptide receptors,Melanocortin receptors
+66,mc5r_human,P33032,MC5R,,Class A (Rhodopsin),Peptide receptors,Melanocortin receptors
+67,mtlr_human,O43193,MLNR,GPR38;MTLR;MTLR1,Class A (Rhodopsin),Peptide receptors,Motilin receptors
+68,nmur1_human,Q9HB89,NMUR1,GPR66,Class A (Rhodopsin),Peptide receptors,Neuromedin U receptors
+69,nmur2_human,Q9GZQ4,NMUR2,NMU2R;TGR1,Class A (Rhodopsin),Peptide receptors,Neuromedin U receptors
+70,npff1_human,Q9GZQ6,NPFFR1,GPR147;NPFF1,Class A (Rhodopsin),Peptide receptors,Neuropeptide FF/neuropeptide AF receptors
+71,npff2_human,Q9Y5X5,NPFFR2,GPR74;NPFF2;NPGPR,Class A (Rhodopsin),Peptide receptors,Neuropeptide FF/neuropeptide AF receptors
+72,npsr1_human,Q6W5P4,NPSR1,GPR154;GPRA;PGR14,Class A (Rhodopsin),Peptide receptors,Neuropeptide S receptors
+73,npbw1_human,P48145,NPBWR1,GPR7,Class A (Rhodopsin),Peptide receptors,Neuropeptide W/neuropeptide B receptors
+74,npbw2_human,P48146,NPBWR2,GPR8,Class A (Rhodopsin),Peptide receptors,Neuropeptide W/neuropeptide B receptors
+75,npy1r_human,P25929,NPY1R,NPYR;NPYY1,Class A (Rhodopsin),Peptide receptors,Neuropeptide Y receptors
+76,cxcr1_human,P25024,CXCR1,CMKAR1;IL8RA,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+77,npy2r_human,P49146,NPY2R,,Class A (Rhodopsin),Peptide receptors,Neuropeptide Y receptors
+78,npy4r_human,P50391,NPY4R,PPYR1,Class A (Rhodopsin),Peptide receptors,Neuropeptide Y receptors
+79,npy5r_human,Q15761,NPY5R,NPYR5,Class A (Rhodopsin),Peptide receptors,Neuropeptide Y receptors
+80,npy6r_human,Q99463,NPY6R,NPY1RL;Y2B,Class A (Rhodopsin),Peptide receptors,Neuropeptide Y receptors
+81,ntr1_human,P30989,NTSR1,NTRR,Class A (Rhodopsin),Peptide receptors,Neurotensin receptors
+82,ntr2_human,O95665,NTSR2,,Class A (Rhodopsin),Peptide receptors,Neurotensin receptors
+83,oprd_human,P41143,OPRD1,OPRD,Class A (Rhodopsin),Peptide receptors,Opioid receptors
+84,oprk_human,P41145,OPRK1,OPRK,Class A (Rhodopsin),Peptide receptors,Opioid receptors
+85,oprm_human,P35372,OPRM1,MOR1,Class A (Rhodopsin),Peptide receptors,Opioid receptors
+86,oprx_human,P41146,OPRL1,OOR;ORL1,Class A (Rhodopsin),Peptide receptors,Opioid receptors
+87,ox1r_human,O43613,HCRTR1,,Class A (Rhodopsin),Peptide receptors,Orexin receptors
+88,ox2r_human,O43614,HCRTR2,,Class A (Rhodopsin),Peptide receptors,Orexin receptors
+89,qrfpr_human,Q96P65,QRFPR,GPR103,Class A (Rhodopsin),Peptide receptors,Peptide P518 receptors
+90,prlhr_human,P49683,PRLHR,GPR10;GR3,Class A (Rhodopsin),Peptide receptors,Prolactin-releasing peptide receptors
+91,par1_human,P25116,F2R,CF2R;PAR1;TR,Class A (Rhodopsin),Peptide receptors,Proteinase-activated receptors
+92,par2_human,P55085,F2RL1,GPR11;PAR2,Class A (Rhodopsin),Peptide receptors,Proteinase-activated receptors
+93,par3_human,O00254,F2RL2,PAR3,Class A (Rhodopsin),Peptide receptors,Proteinase-activated receptors
+94,par4_human,Q96RI0,F2RL3,PAR4,Class A (Rhodopsin),Peptide receptors,Proteinase-activated receptors
+95,rxfp1_human,Q9HBX9,RXFP1,LGR7,Class A (Rhodopsin),Peptide receptors,Relaxin family peptide receptors
+96,rxfp2_human,Q8WXD0,RXFP2,GPR106;GREAT;LGR8,Class A (Rhodopsin),Peptide receptors,Relaxin family peptide receptors
+97,rl3r1_human,Q9NSD7,RXFP3,RLN3R1;SALPR,Class A (Rhodopsin),Peptide receptors,Relaxin family peptide receptors
+98,rl3r2_human,Q8TDU9,RXFP4,GPR100;RLN3R2,Class A (Rhodopsin),Peptide receptors,Relaxin family peptide receptors
+99,ssr1_human,P30872,SSTR1,,Class A (Rhodopsin),Peptide receptors,Somatostatin receptors
+100,ssr2_human,P30874,SSTR2,,Class A (Rhodopsin),Peptide receptors,Somatostatin receptors
+101,ssr3_human,P32745,SSTR3,,Class A (Rhodopsin),Peptide receptors,Somatostatin receptors
+102,ssr4_human,P31391,SSTR4,,Class A (Rhodopsin),Peptide receptors,Somatostatin receptors
+103,ssr5_human,P35346,SSTR5,,Class A (Rhodopsin),Peptide receptors,Somatostatin receptors
+104,nk1r_human,P25103,TACR1,NK1R;TAC1R,Class A (Rhodopsin),Peptide receptors,Tachykinin receptors
+105,nk2r_human,P21452,TACR2,NK2R;NKNAR;TAC2R,Class A (Rhodopsin),Peptide receptors,Tachykinin receptors
+106,nk3r_human,P29371,TACR3,NK3R;TAC3R,Class A (Rhodopsin),Peptide receptors,Tachykinin receptors
+107,cxcr2_human,P25025,CXCR2,IL8RB,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+108,trfr_human,P34981,TRHR,,Class A (Rhodopsin),Peptide receptors,Thyrotropin-releasing hormone receptors
+109,ur2r_human,Q9UKP6,UTS2R,GPR14,Class A (Rhodopsin),Peptide receptors,Urotensin receptors
+110,v1ar_human,P37288,AVPR1A,AVPR1,Class A (Rhodopsin),Peptide receptors,Vasopressin and oxytocin receptors
+111,v1br_human,P47901,AVPR1B,AVPR3;VPR3,Class A (Rhodopsin),Peptide receptors,Vasopressin and oxytocin receptors
+112,v2r_human,P30518,AVPR2,ADHR;DIR;DIR3;V2R,Class A (Rhodopsin),Peptide receptors,Vasopressin and oxytocin receptors
+113,oxyr_human,P30559,OXTR,,Class A (Rhodopsin),Peptide receptors,Vasopressin and oxytocin receptors
+114,cml1_human,Q99788,CMKLR1,CHEMR23;DEZ,Class A (Rhodopsin),Protein receptors,Chemerin receptor
+115,ccr1_human,P32246,CCR1,CMKBR1;CMKR1;SCYAR1,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+116,ccr2_human,P41597,CCR2,CMKBR2,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+117,ccr3_human,P51677,CCR3,CMKBR3,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+118,ccr4_human,P51679,CCR4,CMKBR4,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+119,ccr5_human,P51681,CCR5,CMKBR5,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+120,ccr6_human,P51684,CCR6,CKRL3;CMKBR6;GPR29;STRL22,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+121,ccr7_human,P32248,CCR7,CMKBR7;EBI1;EVI1,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+122,ccr8_human,P51685,CCR8,CKRL1;CMKBR8;CMKBRL2,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+123,ccr9_human,P51686,CCR9,GPR28,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+124,ccr10_human,P46092,CCR10,GPR2,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+125,cxcr3_human,P49682,CXCR3,GPR9,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+126,cxcr4_human,P61073,CXCR4,,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+127,cxcr5_human,P32302,CXCR5,BLR1;MDR15,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+128,cxcr6_human,O00574,CXCR6,BONZO;STRL33;TYMSTR,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+129,cx3c1_human,P49238,CX3CR1,CMKBRL1;GPR13,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+130,xcr1_human,P46094,XCR1,CCXCR1;GPR5,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+131,ackr1_human,Q16570,ACKR1,DARC;FY;GPD,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+132,ackr2_human,O00590,ACKR2,CCBP2;CCR10;CMKBR9;D6,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+133,ackr3_human,P25106,ACKR3,CMKOR1;CXCR7;GPR159;RDC1,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+134,ackr4_human,Q9NPB9,ACKR4,CCBP2;CCR11;CCRL1;VSHK1,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+135,ccrl2_human,O00421,CCRL2,CCR11;CCR6;CKRX;CRAM;HCR,Class A (Rhodopsin),Protein receptors,Chemokine receptors
+136,fshr_human,P23945,FSHR,LGR1,Class A (Rhodopsin),Protein receptors,Glycoprotein hormone receptors
+137,lshr_human,P22888,LHCGR,LCGR;LGR2;LHRHR,Class A (Rhodopsin),Protein receptors,Glycoprotein hormone receptors
+138,tshr_human,P16473,TSHR,LGR3,Class A (Rhodopsin),Protein receptors,Glycoprotein hormone receptors
+139,pkr1_human,Q8TCW9,PROKR1,GPR73;PKR1,Class A (Rhodopsin),Protein receptors,Prokineticin receptors
+140,pkr2_human,Q8NFJ6,PROKR2,GPR73L1;PKR2,Class A (Rhodopsin),Protein receptors,Prokineticin receptors
+141,ffar1_human,O14842,FFAR1,GPR40,Class A (Rhodopsin),Lipid receptors,Free fatty acid receptors
+142,ffar2_human,O15552,FFAR2,FFA2;GPCR43;GPR43,Class A (Rhodopsin),Lipid receptors,Free fatty acid receptors
+143,ffar3_human,O14843,FFAR3,GPR41,Class A (Rhodopsin),Lipid receptors,Free fatty acid receptors
+144,ffar4_human,Q5NUL3,FFAR4,GPR120;GPR129;O3FAR1;PGR4,Class A (Rhodopsin),Lipid receptors,Free fatty acid receptors
+145,gpr42_human,O15529,GPR42,GPR42P,Class A (Rhodopsin),Lipid receptors,Free fatty acid receptors
+146,lt4r1_human,Q15722,LTB4R,BLT;BLT1;BLTR;CMKRL1;GPR16;P2RY7,Class A (Rhodopsin),Lipid receptors,Leukotriene receptors
+147,lt4r2_human,Q9NPC1,LTB4R2,BLT2R;BLTR2,Class A (Rhodopsin),Lipid receptors,Leukotriene receptors
+148,cltr1_human,Q9Y271,CYSLTR1,CYSLT1,Class A (Rhodopsin),Lipid receptors,Leukotriene receptors
+149,cltr2_human,Q9NS75,CYSLTR2,CYSLT2;CYSLT2R;PSEC0146,Class A (Rhodopsin),Lipid receptors,Leukotriene receptors
+150,oxer1_human,Q8TDS5,OXER1,GPR170;TG1019,Class A (Rhodopsin),Lipid receptors,Leukotriene receptors
+151,lpar1_human,Q92633,LPAR1,EDG2;LPA1,Class A (Rhodopsin),Lipid receptors,Lysophospholipid (LPA) receptors
+152,lpar2_human,Q9HBW0,LPAR2,EDG4;LPA2,Class A (Rhodopsin),Lipid receptors,Lysophospholipid (LPA) receptors
+153,lpar3_human,Q9UBY5,LPAR3,EDG7;LPA3,Class A (Rhodopsin),Lipid receptors,Lysophospholipid (LPA) receptors
+154,lpar4_human,Q99677,LPAR4,GPR23;LPA4;P2RY9,Class A (Rhodopsin),Lipid receptors,Lysophospholipid (LPA) receptors
+155,lpar5_human,Q9H1C0,LPAR5,GPR92;GPR93,Class A (Rhodopsin),Lipid receptors,Lysophospholipid (LPA) receptors
+156,lpar6_human,P43657,LPAR6,P2RY5,Class A (Rhodopsin),Lipid receptors,Lysophospholipid (LPA) receptors
+157,s1pr1_human,P21453,S1PR1,CHEDG1;EDG1,Class A (Rhodopsin),Lipid receptors,Lysophospholipid (S1P) receptors
+158,s1pr2_human,O95136,S1PR2,EDG5,Class A (Rhodopsin),Lipid receptors,Lysophospholipid (S1P) receptors
+159,s1pr3_human,Q99500,S1PR3,EDG3,Class A (Rhodopsin),Lipid receptors,Lysophospholipid (S1P) receptors
+160,s1pr4_human,O95977,S1PR4,EDG6,Class A (Rhodopsin),Lipid receptors,Lysophospholipid (S1P) receptors
+161,s1pr5_human,Q9H228,S1PR5,EDG8,Class A (Rhodopsin),Lipid receptors,Lysophospholipid (S1P) receptors
+162,cnr1_human,P21554,CNR1,CNR,Class A (Rhodopsin),Lipid receptors,Cannabinoid receptors
+163,cnr2_human,P34972,CNR2,CB2A;CB2B,Class A (Rhodopsin),Lipid receptors,Cannabinoid receptors
+164,gpr18_human,Q14330,GPR18,GPCRW,Class A (Rhodopsin),Lipid receptors,"GPR18, GPR55 and GPR119"
+165,gpr55_human,Q9Y2T6,GPR55,,Class A (Rhodopsin),Lipid receptors,"GPR18, GPR55 and GPR119"
+166,gp119_human,Q8TDV5,GPR119,,Class A (Rhodopsin),Lipid receptors,"GPR18, GPR55 and GPR119"
+167,ptafr_human,P25105,PTAFR,PAFR,Class A (Rhodopsin),Lipid receptors,Platelet-activating factor receptors
+168,pd2r_human,Q13258,PTGDR,,Class A (Rhodopsin),Lipid receptors,Prostanoid receptors
+169,pd2r2_human,Q9Y5Y4,PTGDR2,CRTH2;DL1R;GPR44,Class A (Rhodopsin),Lipid receptors,Prostanoid receptors
+170,pe2r1_human,P34995,PTGER1,,Class A (Rhodopsin),Lipid receptors,Prostanoid receptors
+171,pe2r2_human,P43116,PTGER2,,Class A (Rhodopsin),Lipid receptors,Prostanoid receptors
+172,pe2r3_human,P43115,PTGER3,,Class A (Rhodopsin),Lipid receptors,Prostanoid receptors
+173,p2y14_human,Q15391,P2RY14,GPR105;KIAA0001,Class A (Rhodopsin),Nucleotide receptors,P2Y receptors
+174,pe2r4_human,P35408,PTGER4,PTGER2,Class A (Rhodopsin),Lipid receptors,Prostanoid receptors
+175,pf2r_human,P43088,PTGFR,,Class A (Rhodopsin),Lipid receptors,Prostanoid receptors
+176,pi2r_human,P43119,PTGIR,PRIPR,Class A (Rhodopsin),Lipid receptors,Prostanoid receptors
+177,ta2r_human,P21731,TBXA2R,,Class A (Rhodopsin),Lipid receptors,Prostanoid receptors
+178,mtr1a_human,P48039,MTNR1A,,Class A (Rhodopsin),Melatonin receptors,Melatonin
+179,mtr1b_human,P49286,MTNR1B,,Class A (Rhodopsin),Melatonin receptors,Melatonin
+180,aa1r_human,P30542,ADORA1,,Class A (Rhodopsin),Nucleotide receptors,Adenosine receptors
+181,aa2ar_human,P29274,ADORA2A,ADORA2,Class A (Rhodopsin),Nucleotide receptors,Adenosine receptors
+182,aa2br_human,P29275,ADORA2B,,Class A (Rhodopsin),Nucleotide receptors,Adenosine receptors
+183,aa3r_human,P0DMS8,ADORA3,,Class A (Rhodopsin),Nucleotide receptors,Adenosine receptors
+184,p2ry1_human,P47900,P2RY1,,Class A (Rhodopsin),Nucleotide receptors,P2Y receptors
+185,p2ry2_human,P41231,P2RY2,P2RU1,Class A (Rhodopsin),Nucleotide receptors,P2Y receptors
+186,p2ry4_human,P51582,P2RY4,NRU,Class A (Rhodopsin),Nucleotide receptors,P2Y receptors
+187,p2ry6_human,Q15077,P2RY6,PP2891,Class A (Rhodopsin),Nucleotide receptors,P2Y receptors
+188,p2y11_human,Q96G91,P2RY11,,Class A (Rhodopsin),Nucleotide receptors,P2Y receptors
+189,p2y12_human,Q9H244,P2RY12,HORK3,Class A (Rhodopsin),Nucleotide receptors,P2Y receptors
+190,p2y13_human,Q9BPV8,P2RY13,GPR86;GPR94;FKSG77,Class A (Rhodopsin),Nucleotide receptors,P2Y receptors
+191,gpbar_human,Q8TDU6,GPBAR1,TGR5,Class A (Rhodopsin),Steroid receptors,Bile acid receptors
+192,gper1_human,Q99527,GPER1,CEPR;CMKRL2;DRY12;GPER;GPR30,Class A (Rhodopsin),Steroid receptors,Estrogen (G protein-coupled) receptors
+193,hcar1_human,Q9BXC0,HCAR1,GPR104;GPR81;HCA1;FKSG80,Class A (Rhodopsin),Alicarboxylic acid receptors,Hydroxycarboxylic acid receptors
+194,hcar2_human,Q8TDS4,HCAR2,GPR109A;HCA2;HM74A;NIACR1,Class A (Rhodopsin),Alicarboxylic acid receptors,Hydroxycarboxylic acid receptors
+195,hcar3_human,P49019,HCAR3,GPR109B;HCA3;HM74B;NIACR2,Class A (Rhodopsin),Alicarboxylic acid receptors,Hydroxycarboxylic acid receptors
+196,oxgr1_human,Q96P68,OXGR1,GPR80;GPR99;P2RY15;P2Y15,Class A (Rhodopsin),Alicarboxylic acid receptors,Oxoglutarate receptors
+197,sucr1_human,Q9BXA5,SUCNR1,GPR91,Class A (Rhodopsin),Alicarboxylic acid receptors,Succinate receptors
+198,opsd_human,P08100,RHO,OPN2,Class A (Rhodopsin),Sensory receptors,Opsins
+199,opn4_human,Q9UHM6,OPN4,MOP,Class A (Rhodopsin),Sensory receptors,Opsins
+200,opn3_human,Q9H1Y3,OPN3,ECPN,Class A (Rhodopsin),Sensory receptors,Opsins
+201,opn5_human,Q6U736,OPN5,GPR136;PGR12;TMEM13,Class A (Rhodopsin),Sensory receptors,Opsins
+202,opsb_human,P03999,OPN1SW,BCP,Class A (Rhodopsin),Sensory receptors,Opsins
+203,opsg_human,P04001,OPN1MW,GCP,Class A (Rhodopsin),Sensory receptors,Opsins
+204,opsr_human,P04000,OPN1LW,RCP,Class A (Rhodopsin),Sensory receptors,Opsins
+205,gpr1_human,P46091,GPR1,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+206,gpr3_human,P46089,GPR3,ACCA,Class A (Rhodopsin),Orphan receptors,Class A orphans
+207,gpr4_human,P46093,GPR4,GPR19,Class A (Rhodopsin),Orphan receptors,Class A orphans
+208,gpr6_human,P46095,GPR6,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+209,gpr12_human,P47775,GPR12,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+210,gpr15_human,P49685,GPR15,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+211,gpr17_human,Q13304,GPR17,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+212,gpr19_human,Q15760,GPR19,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+213,gpr20_human,Q99678,GPR20,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+214,gpr21_human,Q99679,GPR21,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+215,gpr22_human,Q99680,GPR22,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+216,gpr25_human,O00155,GPR25,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+217,gpr26_human,Q8NDV2,GPR26,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+218,gpr27_human,Q9NS67,GPR27,SREB1,Class A (Rhodopsin),Orphan receptors,Class A orphans
+219,gpr31_human,O00270,GPR31,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+220,gpr32_human,O75388,GPR32,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+221,gpr33_human,Q49SQ1,GPR33,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+222,gpr34_human,Q9UPC5,GPR34,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+223,gpr35_human,Q9HC97,GPR35,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+224,gpr37_human,O15354,GPR37,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+225,etbr2_human,O60883,GPR37L1,ETBRLP2,Class A (Rhodopsin),Orphan receptors,Class A orphans
+226,gpr39_human,O43194,GPR39,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+227,gpr45_human,Q9Y5Y3,GPR45,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+228,mtr1l_human,Q13585,GPR50,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+229,gpr52_human,Q9Y2T5,GPR52,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+230,gpr61_human,Q9BZJ8,GPR61,BALGR,Class A (Rhodopsin),Orphan receptors,Class A orphans
+231,gpr62_human,Q9BZJ7,GPR62,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+232,gpr63_human,Q9BZJ6,GPR63,PSP24B,Class A (Rhodopsin),Orphan receptors,Class A orphans
+233,psyr_human,Q8IYL9,GPR65,TDAG8,Class A (Rhodopsin),Orphan receptors,Class A orphans
+234,ogr1_human,Q15743,GPR68,OGR1,Class A (Rhodopsin),Orphan receptors,Class A orphans
+235,gpr75_human,O95800,GPR75,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+236,gpr78_human,Q96P69,GPR78,UNQ5925/PRO19818,Class A (Rhodopsin),Orphan receptors,Class A orphans
+237,gpr82_human,Q96P67,GPR82,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+238,gpr83_human,Q9NYM4,GPR83,GPR72;KIAA1540,Class A (Rhodopsin),Orphan receptors,Class A orphans
+239,gpr84_human,Q9NQS5,GPR84,EX33,Class A (Rhodopsin),Orphan receptors,Class A orphans
+240,gpr85_human,P60893,GPR85,SREB2,Class A (Rhodopsin),Orphan receptors,Class A orphans
+241,gpr87_human,Q9BY21,GPR87,GPR95;FKSG78,Class A (Rhodopsin),Orphan receptors,Class A orphans
+242,gpr88_human,Q9GZN0,GPR88,STRG,Class A (Rhodopsin),Orphan receptors,Class A orphans
+243,gp101_human,Q96P66,GPR101,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+244,gp132_human,Q9UNW8,GPR132,G2A,Class A (Rhodopsin),Orphan receptors,Class A orphans
+245,gp135_human,Q8IZ08,GPR135,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+246,gp139_human,Q6DWJ6,GPR139,GPRG1;PGR3,Class A (Rhodopsin),Orphan receptors,Class A orphans
+247,gp141_human,Q7Z602,GPR141,PGR13,Class A (Rhodopsin),Orphan receptors,Class A orphans
+248,gp142_human,Q7Z601,GPR142,PGR2,Class A (Rhodopsin),Orphan receptors,Class A orphans
+249,gp146_human,Q96CH1,GPR146,PGR8,Class A (Rhodopsin),Orphan receptors,Class A orphans
+250,gp148_human,Q8TDV2,GPR148,BTR;PGR6,Class A (Rhodopsin),Orphan receptors,Class A orphans
+251,gp149_human,Q86SP6,GPR149,PGR10,Class A (Rhodopsin),Orphan receptors,Class A orphans
+252,gp150_human,Q8NGU9,GPR150,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+253,gp151_human,Q8TDV0,GPR151,PGR7,Class A (Rhodopsin),Orphan receptors,Class A orphans
+254,gp152_human,Q8TDT2,GPR152,PGR5,Class A (Rhodopsin),Orphan receptors,Class A orphans
+255,gp153_human,Q6NV75,GPR153,PGR1,Class A (Rhodopsin),Orphan receptors,Class A orphans
+256,gp160_human,Q9UJ42,GPR160,GPCR150,Class A (Rhodopsin),Orphan receptors,Class A orphans
+257,gp161_human,Q8N6U8,GPR161,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+258,gp162_human,Q16538,GPR162,GRCA,Class A (Rhodopsin),Orphan receptors,Class A orphans
+259,gp171_human,O14626,GPR171,H963,Class A (Rhodopsin),Orphan receptors,Class A orphans
+260,gp173_human,Q9NS66,GPR173,SREB3,Class A (Rhodopsin),Orphan receptors,Class A orphans
+261,gp174_human,Q9BXC1,GPR174,FKSG79;GPCR17,Class A (Rhodopsin),Orphan receptors,Class A orphans
+262,gp176_human,Q14439,GPR176,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+263,gp182_human,O15218,GPR182,ADMR,Class A (Rhodopsin),Orphan receptors,Class A orphans
+264,gp183_human,P32249,GPR183,EBI2,Class A (Rhodopsin),Orphan receptors,Class A orphans
+265,lgr4_human,Q9BXB1,LGR4,GPR48,Class A (Rhodopsin),Orphan receptors,Class A orphans
+266,lgr5_human,O75473,LGR5,GPR49;GPR67,Class A (Rhodopsin),Orphan receptors,Class A orphans
+267,taar8_human,Q969N4,TAAR8,GPR102;TA5;TAR5;TRAR5,Class A (Rhodopsin),Orphan receptors,Class A orphans
+268,lgr6_human,Q9HBX8,LGR6,UNQ6427/PRO21331;VTS20631,Class A (Rhodopsin),Orphan receptors,Class A orphans
+269,mas_human,P04201,MAS1,MAS,Class A (Rhodopsin),Orphan receptors,Class A orphans
+270,mas1l_human,P35410,MAS1L,MRG,Class A (Rhodopsin),Orphan receptors,Class A orphans
+271,mrgrd_human,Q8TDS7,MRGPRD,MRGD,Class A (Rhodopsin),Orphan receptors,Class A orphans
+272,mrgre_human,Q86SM8,MRGPRE,GPR167;MRGE,Class A (Rhodopsin),Orphan receptors,Class A orphans
+273,mrgrf_human,Q96AM1,MRGPRF,GPR140;GPR168;MRGF;PSEC0142,Class A (Rhodopsin),Orphan receptors,Class A orphans
+274,mrgrg_human,Q86SM5,MRGPRG,GPR169;MRGG,Class A (Rhodopsin),Orphan receptors,Class A orphans
+275,mrgx1_human,Q96LB2,MRGPRX1,MRGX1;SNSR3;SNSR4,Class A (Rhodopsin),Orphan receptors,Class A orphans
+276,mrgx2_human,Q96LB1,MRGPRX2,MRGX2,Class A (Rhodopsin),Orphan receptors,Class A orphans
+277,mrgx3_human,Q96LB0,MRGPRX3,MRGX3;SNSR1;SNSR2,Class A (Rhodopsin),Orphan receptors,Class A orphans
+278,mrgx4_human,Q96LA9,MRGPRX4,MRGX4;SNSR5;SNSR6,Class A (Rhodopsin),Orphan receptors,Class A orphans
+279,p2ry8_human,Q86VZ1,P2RY8,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+280,p2y10_human,O00398,P2RY10,,Class A (Rhodopsin),Orphan receptors,Class A orphans
+281,taar2_human,Q9P1P5,TAAR2,GPR58,Class A (Rhodopsin),Orphan receptors,Class A orphans
+282,taar3_human,Q9P1P4,TAAR3P,GPR57;TAAR3,Class A (Rhodopsin),Orphan receptors,Class A orphans
+283,taar5_human,O14804,TAAR5,PNR,Class A (Rhodopsin),Orphan receptors,Class A orphans
+284,taar6_human,Q96RI8,TAAR6,TA4;TAR4;TRAR4,Class A (Rhodopsin),Orphan receptors,Class A orphans
+285,taar9_human,Q96RI9,TAAR9,TA3;TAR3;TRAR3,Class A (Rhodopsin),Orphan receptors,Class A orphans
+286,calcr_human,P30988-2,CALCR,,Class B1 (Secretin),Peptide receptors,Calcitonin receptors
+287,calrl_human,Q16602,CALCRL,CGRPR,Class B1 (Secretin),Peptide receptors,Calcitonin receptors
+288,crfr1_human,P34998-2,CRHR1,CRFR;CRFR1;CRHR,Class B1 (Secretin),Peptide receptors,Corticotropin-releasing factor receptors
+289,crfr2_human,Q13324,CRHR2,CRF2R;CRH2R,Class B1 (Secretin),Peptide receptors,Corticotropin-releasing factor receptors
+290,ghrhr_human,Q02643,GHRHR,,Class B1 (Secretin),Peptide receptors,Glucagon receptor family
+291,gipr_human,P48546,GIPR,,Class B1 (Secretin),Peptide receptors,Glucagon receptor family
+292,glp1r_human,P43220,GLP1R,,Class B1 (Secretin),Peptide receptors,Glucagon receptor family
+293,glp2r_human,O95838,GLP2R,,Class B1 (Secretin),Peptide receptors,Glucagon receptor family
+294,glr_human,P47871,GCGR,,Class B1 (Secretin),Peptide receptors,Glucagon receptor family
+295,sctr_human,P47872,SCTR,,Class B1 (Secretin),Peptide receptors,Glucagon receptor family
+296,pth1r_human,Q03431,PTH1R,PTHR;PTHR1,Class B1 (Secretin),Peptide receptors,Parathyroid hormone receptors
+297,pth2r_human,P49190,PTH2R,PTHR2,Class B1 (Secretin),Peptide receptors,Parathyroid hormone receptors
+298,pacr_human,P41586,ADCYAP1R1,,Class B1 (Secretin),Peptide receptors,VIP and PACAP receptors
+299,vipr1_human,P32241,VIPR1,,Class B1 (Secretin),Peptide receptors,VIP and PACAP receptors
+300,vipr2_human,P41587,VIPR2,VIP2R,Class B1 (Secretin),Peptide receptors,VIP and PACAP receptors
+301,agrl1_human,O94910,ADGRL1,KIAA0821;,Class B2 (Adhesion),Adhesion receptors,ADGRL
+302,agrl2_human,O95490,ADGRL2,KIAA0786;LEC1;LPHH1;LPHN2,Class B2 (Adhesion),Adhesion receptors,ADGRL
+303,agrl3_human,Q9HAR2,ADGRL3,KIAA0768;,Class B2 (Adhesion),Adhesion receptors,ADGRL
+304,agrl4_human,Q9HBW9,ADGRL4,ELTD1;ETL;UNQ202/PRO228,Class B2 (Adhesion),Adhesion receptors,ADGRL
+305,agre1_human,Q14246,ADGRE1,EMR1;TM7LN3,Class B2 (Adhesion),Adhesion receptors,ADGRE
+306,agre2_human,Q9UHX3,ADGRE2,EMR2,Class B2 (Adhesion),Adhesion receptors,ADGRE
+307,agre3_human,Q9BY15,ADGRE3,EMR3;UNQ683/PRO1562,Class B2 (Adhesion),Adhesion receptors,ADGRE
+308,agre4_human,Q86SQ3,ADGRE4P,EMR4;EMR4P;GPR127;PGR16,Class B2 (Adhesion),Adhesion receptors,ADGRE
+309,cd97_human,P48960,CD97,,Class B2 (Adhesion),Adhesion receptors,ADGRE
+310,agra1_human,Q86SQ6,ADGRA1,GPR123;KIAA1828,Class B2 (Adhesion),Adhesion receptors,ADGRA
+311,agra2_human,Q96PE1,ADGRA2,GPR124;KIAA1531;,Class B2 (Adhesion),Adhesion receptors,ADGRA
+312,agra3_human,Q8IWK6,ADGRA3,GPR125;UNQ556/PRO1113,Class B2 (Adhesion),Adhesion receptors,ADGRA
+313,celr1_human,Q9NYQ6,CELSR1,CDHF9;FMI2,Class B2 (Adhesion),Adhesion receptors,ADGRC
+314,celr2_human,Q9HCU4,CELSR2,CDHF10;EGFL2;KIAA0279;MEGF3,Class B2 (Adhesion),Adhesion receptors,ADGRC
+315,celr3_human,Q9NYQ7,CELSR3,CDHF11;EGFL1;FMI1;KIAA0812;MEGF2,Class B2 (Adhesion),Adhesion receptors,ADGRC
+316,agrd1_human,Q6QNK2,ADGRD1,GPR133;PGR25,Class B2 (Adhesion),Adhesion receptors,ADGRD
+317,agrd2_human,Q7Z7M1,ADGRD2,GPR144;PGR24,Class B2 (Adhesion),Adhesion receptors,ADGRD
+318,agrf1_human,Q5T601,ADGRF1,GPR110;PGR19,Class B2 (Adhesion),Adhesion receptors,ADGRF
+319,agrf2_human,Q8IZF7,ADGRF2,GPR111;PGR20,Class B2 (Adhesion),Adhesion receptors,ADGRF
+320,agrf3_human,Q8IZF5,ADGRF3,GPR113;PGR23;UNQ9196/PRO34000,Class B2 (Adhesion),Adhesion receptors,ADGRF
+321,agrf4_human,Q8IZF3,ADGRF4,GPR115;PGR18,Class B2 (Adhesion),Adhesion receptors,ADGRF
+322,agrf5_human,Q8IZF2,ADGRF5,GPR116;KIAA0758,Class B2 (Adhesion),Adhesion receptors,ADGRF
+323,bai1_human,O14514,BAI1,,Class B2 (Adhesion),Adhesion receptors,ADGRB
+324,agrb2_human,O60241,ADGRB2,BAI2,Class B2 (Adhesion),Adhesion receptors,ADGRB
+325,agrb3_human,O60242,ADGRB3,BAI3;KIAA0550,Class B2 (Adhesion),Adhesion receptors,ADGRB
+326,agrg1_human,Q9Y653,ADGRG1,GPR56;TM7LN4;TM7XN1;UNQ540/PRO1083,Class B2 (Adhesion),Adhesion receptors,ADGRG
+327,agrg2_human,Q8IZP9,ADGRG2,GPR64;HE6;TM7LN2,Class B2 (Adhesion),Adhesion receptors,ADGRG
+328,agrg3_human,Q86Y34,ADGRG3,GPR97;PGR26,Class B2 (Adhesion),Adhesion receptors,ADGRG
+329,agrg4_human,Q8IZF6,ADGRG4,GPR112,Class B2 (Adhesion),Adhesion receptors,ADGRG
+330,agrg5_human,Q8IZF4,ADGRG5,GPR114;PGR27;UNQ2524/PRO6017,Class B2 (Adhesion),Adhesion receptors,ADGRG
+331,agrg6_human,Q86SQ4,ADGRG6,DREG;GPR126;VIGR,Class B2 (Adhesion),Adhesion receptors,ADGRG
+332,agrg7_human,Q96K78,ADGRG7,GPR128,Class B2 (Adhesion),Adhesion receptors,ADGRG
+333,gpr98_human,Q8WXG9,GPR98,KIAA0686;KIAA1943;MASS1;VLGR1,Class B2 (Adhesion),Adhesion receptors,ADGRV
+334,casr_human,P41180,CASR,GPRC2A;PCAR1,Class C (Glutamate),Ion receptors,Calcium-sensing receptors
+335,gabr1_human,Q9UBS5,GABBR1,GPRC3A,Class C (Glutamate),Amino acid receptors,GABA<sub>B</sub> receptors
+336,gabr2_human,O75899,GABBR2,GPR51;GPRC3B,Class C (Glutamate),Amino acid receptors,GABA<sub>B</sub> receptors
+337,grm1_human,Q13255,GRM1,GPRC1A;MGLUR1,Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors
+338,grm2_human,Q14416,GRM2,GPRC1B;MGLUR2,Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors
+339,grm3_human,Q14832,GRM3,GPRC1C;MGLUR3,Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors
+340,grm4_human,Q14833,GRM4,GPRC1D;MGLUR4,Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors
+341,grm5_human,P41594,GRM5,GPRC1E;MGLUR5,Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors
+342,grm6_human,O15303,GRM6,GPRC1F;MGLUR6,Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors
+343,grm7_human,Q14831,GRM7,GPRC1G;MGLUR7,Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors
+344,grm8_human,O00222,GRM8,GPRC1H;MGLUR8,Class C (Glutamate),Amino acid receptors,Metabotropic glutamate receptors
+345,ts1r1_human,Q7RTX1,TAS1R1,GPR70;T1R1;TR1;GM148,Class C (Glutamate),Sensory receptors,Taste 1 receptors
+346,ts1r2_human,Q8TE23,TAS1R2,GPR71;T1R2;TR2,Class C (Glutamate),Sensory receptors,Taste 1 receptors
+347,ts1r3_human,Q7RTX0,TAS1R3,T1R3;TR3,Class C (Glutamate),Sensory receptors,Taste 1 receptors
+348,gp156_human,Q8NFN8,GPR156,GABABL;PGR28,Class C (Glutamate),Orphan receptors,Class C Orphans
+349,gp158_human,Q5T848,GPR158,KIAA1136,Class C (Glutamate),Orphan receptors,Class C Orphans
+350,gp179_human,Q6PRD1,GPR179,GPR158L;GPR158L1,Class C (Glutamate),Orphan receptors,Class C Orphans
+351,rai3_human,Q8NFJ5,GPRC5A,GPCR5A;RAI3;RAIG1,Class C (Glutamate),Orphan receptors,Class C Orphans
+352,gpc5b_human,Q9NZH0,GPRC5B,RAIG2,Class C (Glutamate),Orphan receptors,Class C Orphans
+353,gpc5c_human,Q9NQ84,GPRC5C,RAIG3;PSEC0087,Class C (Glutamate),Orphan receptors,Class C Orphans
+354,gpc5d_human,Q9NZD1,GPRC5D,,Class C (Glutamate),Orphan receptors,Class C Orphans
+355,gpc6a_human,Q5T6X5,GPRC6A,,Class C (Glutamate),Orphan receptors,Class C Orphans
+356,fzd3_human,Q9NPG1,FZD3,,Class F (Frizzled),Protein receptors,Frizzled
+357,fzd1_human,Q9UP38,FZD1,,Class F (Frizzled),Protein receptors,Frizzled
+358,fzd2_human,Q14332,FZD2,,Class F (Frizzled),Protein receptors,Frizzled
+359,fzd4_human,Q9ULV1,FZD4,,Class F (Frizzled),Protein receptors,Frizzled
+360,fzd5_human,Q13467,FZD5,C2orf31,Class F (Frizzled),Protein receptors,Frizzled
+361,fzd6_human,O60353,FZD6,,Class F (Frizzled),Protein receptors,Frizzled
+362,fzd7_human,O75084,FZD7,,Class F (Frizzled),Protein receptors,Frizzled
+363,fzd8_human,Q9H461,FZD8,,Class F (Frizzled),Protein receptors,Frizzled
+364,fzd9_human,O00144,FZD9,FZD3,Class F (Frizzled),Protein receptors,Frizzled
+365,fzd10_human,Q9ULW2,FZD10,,Class F (Frizzled),Protein receptors,Frizzled
+366,smo_human,Q99835,SMO,SMOH,Class F (Frizzled),Protein receptors,Frizzled
+367,ta2r9_human,Q9NYW1,TAS2R9,,Taste 2,Sensory receptors,Taste 2 receptors
+368,t2r10_human,Q9NYW0,TAS2R10,,Taste 2,Sensory receptors,Taste 2 receptors
+369,ta2r8_human,Q9NYW2,TAS2R8,,Taste 2,Sensory receptors,Taste 2 receptors
+370,ta2r1_human,Q9NYW7,TAS2R1,,Taste 2,Sensory receptors,Taste 2 receptors
+371,ta2r3_human,Q9NYW6,TAS2R3,,Taste 2,Sensory receptors,Taste 2 receptors
+372,ta2r4_human,Q9NYW5,TAS2R4,,Taste 2,Sensory receptors,Taste 2 receptors
+373,ta2r5_human,Q9NYW4,TAS2R5,,Taste 2,Sensory receptors,Taste 2 receptors
+374,ta2r7_human,Q9NYW3,TAS2R7,,Taste 2,Sensory receptors,Taste 2 receptors
+375,t2r13_human,Q9NYV9,TAS2R13,,Taste 2,Sensory receptors,Taste 2 receptors
+376,t2r14_human,Q9NYV8,TAS2R14,,Taste 2,Sensory receptors,Taste 2 receptors
+377,t2r16_human,Q9NYV7,TAS2R16,,Taste 2,Sensory receptors,Taste 2 receptors
+378,t2r19_human,P59542,TAS2R19,TAS2R23;TAS2R48,Taste 2,Sensory receptors,Taste 2 receptors
+379,t2r20_human,P59543,TAS2R20,TAS2R49,Taste 2,Sensory receptors,Taste 2 receptors
+380,t2r30_human,P59541,TAS2R30,TAS2R47,Taste 2,Sensory receptors,Taste 2 receptors
+381,t2r31_human,P59538,TAS2R31,TAS2R44,Taste 2,Sensory receptors,Taste 2 receptors
+382,t2r38_human,P59533,TAS2R38,PTC,Taste 2,Sensory receptors,Taste 2 receptors
+383,t2r39_human,P59534,TAS2R39,,Taste 2,Sensory receptors,Taste 2 receptors
+384,t2r40_human,P59535,TAS2R40,GPR60,Taste 2,Sensory receptors,Taste 2 receptors
+385,t2r41_human,P59536,TAS2R41,,Taste 2,Sensory receptors,Taste 2 receptors
+386,t2r42_human,Q7RTR8,TAS2R42,TAS2R55,Taste 2,Sensory receptors,Taste 2 receptors
+387,t2r43_human,P59537,TAS2R43,,Taste 2,Sensory receptors,Taste 2 receptors
+388,t2r45_human,P59539,TAS2R45,GPR59,Taste 2,Sensory receptors,Taste 2 receptors
+389,t2r46_human,P59540,TAS2R46,,Taste 2,Sensory receptors,Taste 2 receptors
+390,t2r50_human,P59544,TAS2R50,,Taste 2,Sensory receptors,Taste 2 receptors
+391,t2r60_human,P59551,TAS2R60,,Taste 2,Sensory receptors,Taste 2 receptors
+392,gp107_human,Q5VW38,GPR107,KIAA1624;LUSTR1,Other GPCRs,Orphan receptors,Other GPCR orphans
+393,g137a_human,Q96N19,GPR137,C11orf4;GPR137A;TM7SF1L1,Other GPCRs,Orphan receptors,Other GPCR orphans
+394,o51e1_human,Q8TCB6,OR51E1,GPR164;OR51E1P;OR52A3P;POGR;PSGR2,Other GPCRs,Orphan receptors,Other GPCR orphans
+395,tpra1_human,Q86W33,TPRA1,GPR175;TMEM227;PP6566,Other GPCRs,Orphan receptors,Other GPCR orphans
+396,gp143_human,P51810,GPR143,OA1,Other GPCRs,Orphan receptors,Other GPCR orphans
+397,gp157_human,Q5UAW9,GPR157,,Other GPCRs,Orphan receptors,Other GPCR orphans
